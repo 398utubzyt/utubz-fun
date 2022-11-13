@@ -1,2 +1,2 @@
-# utubz-fun
- I'm having too much fun with this library my friend found a while ago.
+# Utubz Fun
+Small Minestom server software to help me learn what the fuck I'm doing.
